@@ -24,18 +24,6 @@ Seeking an entry-level position where I can leverage my testing skills, learn fr
 ### Tech skills :computer:
 * [SQL](https://support.microsoft.com/ro-ro/topic/access-sql-concepte-de-bază-vocabular-și-sintaxă-444d0303-cde1-424e-9a74-e8dc3e460671)
 
-| syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
-|:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
-| SELECT (*, LIKE, TOP)         |          =           | AND               | GETDATE                          | COUNT ()              | JOIN    |
-| FROM                          |         !=           |   BETWEEN         | UPPER                            | SUM ()                | AS      |
-| WHERE                         |         <>           |    IN             | LOWER                            | MIN ()                |  UNION  |
-| GROUP BY                      |          >           |    LIKE           | DATEDIFF (HOUR, MONTH, YEAR etc.)|                       |         |
-| ORDER BY (ASC, DESC)          |          <           |    NOT            |                                  |                       |         |
-|  UPDATE (SET)                 |         >=           |    OR             |                                  |                       |         |
-|    ALTER TABLE (ADD)          |         <=           |    IS NULL        |                                  |                       |         |
-|  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
-|                               |         !>           |                   |                                  |                       |         |
-
 *  API testing
 * Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 * Software testing
@@ -60,3 +48,7 @@ Seeking an entry-level position where I can leverage my testing skills, learn fr
 
 ### Certificates :trophy:
 * [GOIT become a manual tester](https://drive.google.com/file/d/1idwinzJoUc6KvDuKHxCvF2HGChVznmu0/view?usp=drive_link)
+### Manual testing in my free time
+* [uTest](https://www.utest.com)
+* [Test.io](https://test.io)
+* [Freelancer.testlio](https://freelancer.testlio.com) 

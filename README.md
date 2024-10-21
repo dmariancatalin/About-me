@@ -48,7 +48,3 @@ Seeking an entry-level position where I can leverage my testing skills, learn fr
 
 ### Certificates :trophy:
 * [GOIT become a manual tester](https://drive.google.com/file/d/1idwinzJoUc6KvDuKHxCvF2HGChVznmu0/view?usp=drive_link)
-### Manual testing in my free time
-* [uTest](https://www.utest.com)
-* [Test.io](https://test.io)
-* [Freelancer.testlio](https://freelancer.testlio.com) 
